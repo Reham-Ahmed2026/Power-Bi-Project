@@ -18,16 +18,16 @@ Explore my BMW dashboard project through this video demonstration on LinkedIn:
 ![BMW i8](i8.png)
 
 ### BMW M5
-![BMW M5](M5.png)
+![BMW M5](m5.png)
 
 ### BMW i3
 ![BMW i3](i3.png)
 
 ### BMW X3
-![BMW X3](X3.png)
+![BMW X3](x3.png)
 
 ### BMW X6
-![BMW X6](X6.png)
+![BMW X6](x6.png)
 
 
 ## 🛠️ Tools & Technologies
