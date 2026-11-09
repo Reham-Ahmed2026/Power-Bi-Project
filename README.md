@@ -7,16 +7,28 @@ Explore my BMW dashboard project through this video demonstration on LinkedIn:
 
 [▶ Watch the Full BMW Dashboard Demo](https://lnkd.in/p/dhRvu4d6)
 
+
+
 ## 📊 Dashboard Preview
 
-This project includes six interactive dashboards analyzing different BMW models:
+### BMW M3
+![BMW M3](M3.png)
 
-- BMW M3
-- BMW i8
-- BMW M5
-- BMW i3
-- BMW X3
-- BMW X6
+### BMW i8
+![BMW i8](i8.png)
+
+### BMW M5
+![BMW M5](M5.png)
+
+### BMW i3
+![BMW i3](i3.png)
+
+### BMW X3
+![BMW X3](X3.png)
+
+### BMW X6
+![BMW X6](X6.png)
+
 
 ## 🛠️ Tools & Technologies
 
