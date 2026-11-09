@@ -41,7 +41,10 @@ This project includes six interactive dashboards analyzing different BMW models:
 - Dashboard Development
 - Analytical Thinking
 - Data Visualization
+  
+## 📥 Download Power BI Project
 
+[⬇️ Download BMW Power BI Dashboard (.pbix)](BMW_Analysis.pbix)
 ---
 
 *Turning data into insights and insights into better decisions.*
